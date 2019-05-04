@@ -1,0 +1,24 @@
+{
+  "name": "json2xml-converter",
+  "version": "1.0.0",
+  "description": "JSON to XML Converter",
+  "main": "json2xml.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeludemann/json2xml.git"
+  },
+  "keywords": [
+    "JSON",
+    "XML",
+    "Converter"
+  ],
+  "author": "Mike Ludemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeludemann/json2xml/issues"
+  },
+  "homepage": "https://github.com/mikeludemann/json2xml#readme"
+}
